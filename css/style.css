@@ -1,0 +1,143 @@
+
+
+a{text-decoration:none;}
+.clear{clear:both;}/* clear float */
+
+img{max-width:100%;}
+
+body{
+text-align: center;
+background: url("../images/b4.jpg") 0px 0px no-repeat;
+background-size:cover;
+background-attachment: fixed;
+}
+
+.padding-all{
+padding:100px;
+}
+
+.header {
+text-align: center;
+padding-bottom:75px;
+}
+.header h1 img{
+width:7%;
+}
+
+
+.button {
+     background-color: #482956;
+    color: white;
+    padding: 15px 40px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+#after{
+    background-color: rgba(33,104,52,.7) ;
+}
+
+h2,h5{
+    color: #fff;
+    background-color: rgba(33,104,52,.7) ;
+
+    font-family: 'Cormorant SC', serif;
+    letter-spacing: 3px;
+    margin: 0 auto;
+    text-shadow: 1px 1px 4px #000;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+.header h1 {
+    font-size: 50px;
+    color: #fff;
+    font-family: 'Cormorant SC', serif;
+    letter-spacing: 3px;
+    margin: 0 auto;
+    text-shadow: 1px 1px 4px #000;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+
+.design-w3l{
+width:36%;
+margin:0 auto;
+}
+
+.mail-form-agile {
+    padding: 50px 40px;
+    text-align: center;
+    margin:0px;
+    color: #000;
+	margin:0 auto;
+}
+
+.padding {
+margin: 20px 0 30px;
+}
+
+.mail-form-agile label{
+padding: 13px 10px;
+width: 92.5%;
+font-size: 16px;
+outline: none;
+background:transparent;
+border:0px;
+border-bottom: 1px solid #fff;
+border-radius: 0px;
+font-family: 'Open Sans', sans-serif;
+letter-spacing:1.6px;
+color:#fff;
+}
+
+.mail-form-agile input[type="submit"]{
+font-size: 18px;
+padding: 10px 20px;
+letter-spacing:1.2px;
+border-radius: 30%;
+text-transform: capitalize;
+outline: none;
+background: #482956;
+color: #fff;
+cursor: pointer;
+margin: 0 auto;
+font-family: 'Open Sans', sans-serif;
+-webkit-transition-duration: 0.9s;
+transition-duration: 0.9s;
+}
+.mail-form-agile input[type="submit"]:hover {
+ -webkit-transition-duration: 0.9s;
+ transition-duration: 0.9s;
+ background:rgba(91, 157, 214, 0.76);
+}
+
+.footer{
+text-align: center;
+padding-top:75px;
+letter-spacing:1.6px;
+line-height:22px;
+}
+.footer p {
+font-size: 16px;
+color: #fff;
+margin: 0px;
+letter-spacing:1.4px;
+}
+.footer p a {
+color:#03A9F4;
+font-weight:bold;
+-webkit-transition-duration: 0.8s;
+transition-duration: 0.8s;
+}
+.footer p a:hover {
+color: #fff;
+ -webkit-transition-duration: 0.8s;
+ transition-duration: 0.8s;
+}
+
